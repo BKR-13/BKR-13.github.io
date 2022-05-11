@@ -1,1 +1,1 @@
-## Simple blog made for writeups
+## Made for writeups
